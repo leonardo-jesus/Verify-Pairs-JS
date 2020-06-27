@@ -1,4 +1,4 @@
-### **Verify Pairs** :mag-right:
+### **Verify Pairs** :mag_right:
 ***
 
 <p align="center">
