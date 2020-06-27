@@ -32,7 +32,7 @@
 
 ## 🚀 Technologies
 
-This project was developed with the following technologies:
+This project was developed with the following technology:
 
 - [Javascript](https://www.javascript.com/)
 
