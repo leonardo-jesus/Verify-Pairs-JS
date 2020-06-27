@@ -1,6 +1,4 @@
-<h1 align="center" font-weight="bold">
-  Verify Pairs 🔎
-</h1> 
+### **Verify Pairs** :mag-right:
 ***
 
 <p align="center">
